@@ -7,5 +7,10 @@ test6
 test7
 test8
 test9
+<<<<<<< HEAD
+test10
+qwe
+=======
 MintZii kayeehuojai
 Nammii kayeekaotommad
+>>>>>>> 7dd9ecb5fe085e8d787e9d91ab0fb2377c05471e
