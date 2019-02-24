@@ -14,3 +14,5 @@ qwe
 MintZii kayeehuojai
 Nammii kayeekaotommad
 >>>>>>> 7dd9ecb5fe085e8d787e9d91ab0fb2377c05471e
+Moon
+Sun
